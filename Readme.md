@@ -1,3 +1,6 @@
+#Priti
+
+
 # Part A – Warm-up: Quick Concepts
 
 ## 1. What is a component in React?
